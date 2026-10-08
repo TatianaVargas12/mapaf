@@ -1,0 +1,6 @@
+{
+  "name": "Ecopetrol RTOC - Monitoreo y Telemetría SCADA",
+  "description": "Sistema avanzado de monitoreo de producción y almacenamiento de fluidos en tiempo real para Campo Rubiales y estaciones de Ecopetrol S.A.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
